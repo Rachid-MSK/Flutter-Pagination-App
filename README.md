@@ -1,3 +1,13 @@
+
+### Architecture of the Mobile Native Cross Platform development framework with FLUTTER
+###- Mobile application development tools with Flutter
+###- First Flutter Application
+###- Basics of the DART programming language
+###- Statless / Statfull Widgets
+###- How to Format the content of a Mobile application with Widgets (Scafforld, Container, Center, Padding, Text, ListView, AssetImage, NetworkImage, etc ...)
+###- How to interact with the backend with http, JSON
+###- How to use the camera and the picture gallery
+
 # my_first_app
 
 A new Flutter project.
